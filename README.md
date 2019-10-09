@@ -21,3 +21,18 @@ git clone https://github.com/cek-open-source-club/hacktober.git
 cd hacktober
 gatsby develop
 ```
+
+#Hacktober Fest
+# Contribute to this HacktoberFest
+1. Fork this Repository
+2.Goto 'content/'
+3.Add your name and Github Id in 'data.yml' file
+4.Always keep an eye on Intendation 
+5. Add your data like this
+``` yml
+-name: Athulya 
+ github: AthulyaTS
+ `````
+ 6.Make a pull request  :tada:tada:
+ 
+ 
